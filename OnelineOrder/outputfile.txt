@@ -1,0 +1,1 @@
+Ford,Memo,99,Black,IC,Passenger,Low,Short
